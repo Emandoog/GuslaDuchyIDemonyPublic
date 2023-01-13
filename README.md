@@ -1,2 +1,2 @@
 # GuslaDuchyIDemony 25.07.2021
-Game made in seven days for PolskiGameDev.pl game jam, Not translated to english. Prototype game about collecting and fighiting with monsters from slavic mythology. Programing Lead  Grzegorz Augustyniak, Programing Mateusz Porcz, Art Assets Made by Agnieszka Gałuszka.
+Game made in seven days for PolskiGameDev.pl game jam, Not translated to english. Prototype game about collecting and fighiting with monsters from slavic mythology. Programing Lead  Grzegorz Augustyniak, Programing Mateusz Porcz, Art Assets Made by Agnieszka Gałuszka. https://drive.google.com/file/d/1QJTY5KodNoyvNsW7rmHL0ZzDaSLq4SrC/view?usp=share_link link to video.
