@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c614c4590d32bb4d94cd31b1afac6be, type: 3}
+  m_Name: wodnik
+  m_EditorClassIdentifier: 
+  Enemy1: {fileID: 0}
+  Enemy2: {fileID: 6697168121678881656, guid: 85c75d4ae9de84642afa2146cad131af, type: 3}
+  Enemy3: {fileID: 2395638817701966676, guid: 29bdb6f7a2dbab540ac91d131503853c, type: 3}
+  Enemy4: {fileID: 0}

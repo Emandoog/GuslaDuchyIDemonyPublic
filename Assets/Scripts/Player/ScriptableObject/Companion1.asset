@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9405bb58ac31d3e4590672084037487d, type: 3}
+  m_Name: Companion1
+  m_EditorClassIdentifier: 
+  companionName: Dola
+  maxLife: 150
+  currentLife: 150
+  basickAttack: 40
+  skillAttack: 70
+  accBasickAttack: 70
+  accSkillAttack: 100
+  arrmor: 15
+  luck: 10
+  skillName: "Koj\u0105cy wiatr"
+  skillDesc: 'Leczy jednego towarzysza o 10 zdrowia. Jedna tura oczekiwiania '
+  basickAttackDesc: zwykly atak
+  isAlive: 1
+  numberOfActions: 3
+  coolDown1: 0
+  skillName2: "\u017Byczenie"
+  skillDesc2: "Dola posi\u0119ca si\u0119 by uleczy\u0107 wszystkich towarzyszy za
+    x."
